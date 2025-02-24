@@ -1,0 +1,24 @@
+<vehiculos>
+    <vehiculo>
+        <matricula>1234ABC</matricula>
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <color>ROJO</color>
+        <precio>12000.0</precio>
+        <fechaMatriculacion>2025-02-17</fechaMatriculacion>
+        <vendido>false</vendido>
+        <createdAt>2025-02-17T18:19:06.481987900</createdAt>
+        <updatedAt>2025-02-17T18:19:06.481987900</updatedAt>
+    </vehiculo>
+    <vehiculo>
+        <matricula>5678DEF</matricula>
+        <marca>Renault</marca>
+        <modelo>Clio</modelo>
+        <color>AZUL</color>
+        <precio>15000.0</precio>
+        <fechaMatriculacion>2025-02-17</fechaMatriculacion>
+        <vendido>false</vendido>
+        <createdAt>2025-02-17T18:19:06.481987900</createdAt>
+        <updatedAt>2025-02-17T18:19:06.481987900</updatedAt>
+    </vehiculo>
+</vehiculos>

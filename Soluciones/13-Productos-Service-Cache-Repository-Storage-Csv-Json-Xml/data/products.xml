@@ -1,0 +1,849 @@
+<products>
+    <product productID="1">
+        <productName>Chai</productName>
+        <supplierID>1</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>10 boxes x 20 bags</quantityPerUnit>
+        <unitPrice>18.0</unitPrice>
+        <unitsInStock>39</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="2">
+        <productName>Chang</productName>
+        <supplierID>1</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 12 oz bottles</quantityPerUnit>
+        <unitPrice>19.0</unitPrice>
+        <unitsInStock>17</unitsInStock>
+        <unitsOnOrder>40</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="3">
+        <productName>Aniseed Syrup</productName>
+        <supplierID>1</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>12 - 550 ml bottles</quantityPerUnit>
+        <unitPrice>10.0</unitPrice>
+        <unitsInStock>13</unitsInStock>
+        <unitsOnOrder>70</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="4">
+        <productName>Chef Anton's Cajun Seasoning</productName>
+        <supplierID>2</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>48 - 6 oz jars</quantityPerUnit>
+        <unitPrice>22.0</unitPrice>
+        <unitsInStock>53</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="5">
+        <productName>Chef Anton's Gumbo Mix</productName>
+        <supplierID>2</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>36 boxes</quantityPerUnit>
+        <unitPrice>21.35</unitPrice>
+        <unitsInStock>0</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="6">
+        <productName>Grandma's Boysenberry Spread</productName>
+        <supplierID>3</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>12 - 8 oz jars</quantityPerUnit>
+        <unitPrice>25.0</unitPrice>
+        <unitsInStock>120</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="7">
+        <productName>Uncle Bob's Organic Dried Pears</productName>
+        <supplierID>3</supplierID>
+        <categoryID>7</categoryID>
+        <quantityPerUnit>12 - 1 lb pkgs.</quantityPerUnit>
+        <unitPrice>30.0</unitPrice>
+        <unitsInStock>15</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="8">
+        <productName>Northwoods Cranberry Sauce</productName>
+        <supplierID>3</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>12 - 12 oz jars</quantityPerUnit>
+        <unitPrice>40.0</unitPrice>
+        <unitsInStock>9</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="9">
+        <productName>Mishi Kobe Niku</productName>
+        <supplierID>4</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>18 - 500 g pkgs.</quantityPerUnit>
+        <unitPrice>97.0</unitPrice>
+        <unitsInStock>29</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="10">
+        <productName>Ikura</productName>
+        <supplierID>4</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>12 - 200 ml jars</quantityPerUnit>
+        <unitPrice>31.0</unitPrice>
+        <unitsInStock>31</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="11">
+        <productName>Queso Cabrales</productName>
+        <supplierID>5</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>1 kg pkg.</quantityPerUnit>
+        <unitPrice>21.0</unitPrice>
+        <unitsInStock>22</unitsInStock>
+        <unitsOnOrder>30</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="12">
+        <productName>Queso Manchego La Pastora</productName>
+        <supplierID>5</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>10 - 500 g pkgs.</quantityPerUnit>
+        <unitPrice>38.0</unitPrice>
+        <unitsInStock>86</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="13">
+        <productName>Konbu</productName>
+        <supplierID>6</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>2 kg box</quantityPerUnit>
+        <unitPrice>6.0</unitPrice>
+        <unitsInStock>24</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="14">
+        <productName>Tofu</productName>
+        <supplierID>6</supplierID>
+        <categoryID>7</categoryID>
+        <quantityPerUnit>40 - 100 g pkgs.</quantityPerUnit>
+        <unitPrice>23.25</unitPrice>
+        <unitsInStock>35</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="15">
+        <productName>Genen Shouyu</productName>
+        <supplierID>6</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>24 - 250 ml bottles</quantityPerUnit>
+        <unitPrice>15.5</unitPrice>
+        <unitsInStock>39</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="16">
+        <productName>Pavlova</productName>
+        <supplierID>7</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>32 - 500 g boxes</quantityPerUnit>
+        <unitPrice>17.45</unitPrice>
+        <unitsInStock>29</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="17">
+        <productName>Alice Mutton</productName>
+        <supplierID>7</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>20 - 1 kg tins</quantityPerUnit>
+        <unitPrice>39.0</unitPrice>
+        <unitsInStock>0</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="18">
+        <productName>Carnarvon Tigers</productName>
+        <supplierID>7</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>16 kg pkg.</quantityPerUnit>
+        <unitPrice>62.5</unitPrice>
+        <unitsInStock>42</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="19">
+        <productName>Teatime Chocolate Biscuits</productName>
+        <supplierID>8</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>10 boxes x 12 pieces</quantityPerUnit>
+        <unitPrice>9.2</unitPrice>
+        <unitsInStock>25</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="20">
+        <productName>Sir Rodney's Marmalade</productName>
+        <supplierID>8</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>30 gift boxes</quantityPerUnit>
+        <unitPrice>81.0</unitPrice>
+        <unitsInStock>40</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="21">
+        <productName>Sir Rodney's Scones</productName>
+        <supplierID>8</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>24 pkgs. x 4 pieces</quantityPerUnit>
+        <unitPrice>10.0</unitPrice>
+        <unitsInStock>3</unitsInStock>
+        <unitsOnOrder>40</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="22">
+        <productName>Gustaf's Knäckebröd</productName>
+        <supplierID>9</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>24 - 500 g pkgs.</quantityPerUnit>
+        <unitPrice>21.0</unitPrice>
+        <unitsInStock>104</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="23">
+        <productName>Tunnbröd</productName>
+        <supplierID>9</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>12 - 250 g pkgs.</quantityPerUnit>
+        <unitPrice>9.0</unitPrice>
+        <unitsInStock>61</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="24">
+        <productName>Guaraná Fantástica</productName>
+        <supplierID>10</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>12 - 355 ml cans</quantityPerUnit>
+        <unitPrice>4.5</unitPrice>
+        <unitsInStock>20</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="25">
+        <productName>NuNuCa Nuß-Nougat-Creme</productName>
+        <supplierID>11</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>20 - 450 g glasses</quantityPerUnit>
+        <unitPrice>14.0</unitPrice>
+        <unitsInStock>76</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="26">
+        <productName>Gumbär Gummibärchen</productName>
+        <supplierID>11</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>100 - 250 g bags</quantityPerUnit>
+        <unitPrice>31.23</unitPrice>
+        <unitsInStock>15</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="27">
+        <productName>Schoggi Schokolade</productName>
+        <supplierID>11</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>100 - 100 g pieces</quantityPerUnit>
+        <unitPrice>43.9</unitPrice>
+        <unitsInStock>49</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="28">
+        <productName>Rössle Sauerkraut</productName>
+        <supplierID>12</supplierID>
+        <categoryID>7</categoryID>
+        <quantityPerUnit>25 - 825 g cans</quantityPerUnit>
+        <unitPrice>45.6</unitPrice>
+        <unitsInStock>26</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="29">
+        <productName>Thüringer Rostbratwurst</productName>
+        <supplierID>12</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>50 bags x 30 sausgs.</quantityPerUnit>
+        <unitPrice>123.79</unitPrice>
+        <unitsInStock>0</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="30">
+        <productName>Nord-Ost Matjeshering</productName>
+        <supplierID>13</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>10 - 200 g glasses</quantityPerUnit>
+        <unitPrice>25.89</unitPrice>
+        <unitsInStock>10</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="31">
+        <productName>Gorgonzola Telino</productName>
+        <supplierID>14</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>12 - 100 g pkgs</quantityPerUnit>
+        <unitPrice>12.5</unitPrice>
+        <unitsInStock>0</unitsInStock>
+        <unitsOnOrder>70</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="32">
+        <productName>Mascarpone Fabioli</productName>
+        <supplierID>14</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>24 - 200 g pkgs.</quantityPerUnit>
+        <unitPrice>32.0</unitPrice>
+        <unitsInStock>9</unitsInStock>
+        <unitsOnOrder>40</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="33">
+        <productName>Geitost</productName>
+        <supplierID>15</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>500 g</quantityPerUnit>
+        <unitPrice>2.5</unitPrice>
+        <unitsInStock>112</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="34">
+        <productName>Sasquatch Ale</productName>
+        <supplierID>16</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 12 oz bottles</quantityPerUnit>
+        <unitPrice>14.0</unitPrice>
+        <unitsInStock>111</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="35">
+        <productName>Steeleye Stout</productName>
+        <supplierID>16</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 12 oz bottles</quantityPerUnit>
+        <unitPrice>18.0</unitPrice>
+        <unitsInStock>20</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="36">
+        <productName>Inlagd Sill</productName>
+        <supplierID>17</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>24 - 250 g  jars</quantityPerUnit>
+        <unitPrice>19.0</unitPrice>
+        <unitsInStock>112</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="37">
+        <productName>Gravad lax</productName>
+        <supplierID>17</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>12 - 500 g pkgs.</quantityPerUnit>
+        <unitPrice>26.0</unitPrice>
+        <unitsInStock>11</unitsInStock>
+        <unitsOnOrder>50</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="38">
+        <productName>Côte de Blaye</productName>
+        <supplierID>18</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>12 - 75 cl bottles</quantityPerUnit>
+        <unitPrice>263.5</unitPrice>
+        <unitsInStock>17</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="39">
+        <productName>Chartreuse verte</productName>
+        <supplierID>18</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>750 cc per bottle</quantityPerUnit>
+        <unitPrice>18.0</unitPrice>
+        <unitsInStock>69</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="40">
+        <productName>Boston Crab Meat</productName>
+        <supplierID>19</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>24 - 4 oz tins</quantityPerUnit>
+        <unitPrice>18.4</unitPrice>
+        <unitsInStock>123</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="41">
+        <productName>Jack's New England Clam Chowder</productName>
+        <supplierID>19</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>12 - 12 oz cans</quantityPerUnit>
+        <unitPrice>9.65</unitPrice>
+        <unitsInStock>85</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="42">
+        <productName>Singaporean Hokkien Fried Mee</productName>
+        <supplierID>20</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>32 - 1 kg pkgs.</quantityPerUnit>
+        <unitPrice>14.0</unitPrice>
+        <unitsInStock>26</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="43">
+        <productName>Ipoh Coffee</productName>
+        <supplierID>20</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>16 - 500 g tins</quantityPerUnit>
+        <unitPrice>46.0</unitPrice>
+        <unitsInStock>17</unitsInStock>
+        <unitsOnOrder>10</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="44">
+        <productName>Gula Malacca</productName>
+        <supplierID>20</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>20 - 2 kg bags</quantityPerUnit>
+        <unitPrice>19.45</unitPrice>
+        <unitsInStock>27</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="45">
+        <productName>Rogede sild</productName>
+        <supplierID>21</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>1k pkg.</quantityPerUnit>
+        <unitPrice>9.5</unitPrice>
+        <unitsInStock>5</unitsInStock>
+        <unitsOnOrder>70</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="46">
+        <productName>Spegesild</productName>
+        <supplierID>21</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>4 - 450 g glasses</quantityPerUnit>
+        <unitPrice>12.0</unitPrice>
+        <unitsInStock>95</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="47">
+        <productName>Zaanse koeken</productName>
+        <supplierID>22</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>10 - 4 oz boxes</quantityPerUnit>
+        <unitPrice>9.5</unitPrice>
+        <unitsInStock>36</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="48">
+        <productName>Chocolade</productName>
+        <supplierID>22</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>10 pkgs.</quantityPerUnit>
+        <unitPrice>12.75</unitPrice>
+        <unitsInStock>15</unitsInStock>
+        <unitsOnOrder>70</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="49">
+        <productName>Maxilaku</productName>
+        <supplierID>23</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>24 - 50 g pkgs.</quantityPerUnit>
+        <unitPrice>20.0</unitPrice>
+        <unitsInStock>10</unitsInStock>
+        <unitsOnOrder>60</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="50">
+        <productName>Valkoinen suklaa</productName>
+        <supplierID>23</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>12 - 100 g bars</quantityPerUnit>
+        <unitPrice>16.25</unitPrice>
+        <unitsInStock>65</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="51">
+        <productName>Manjimup Dried Apples</productName>
+        <supplierID>24</supplierID>
+        <categoryID>7</categoryID>
+        <quantityPerUnit>50 - 300 g pkgs.</quantityPerUnit>
+        <unitPrice>53.0</unitPrice>
+        <unitsInStock>20</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="52">
+        <productName>Filo Mix</productName>
+        <supplierID>24</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>16 - 2 kg boxes</quantityPerUnit>
+        <unitPrice>7.0</unitPrice>
+        <unitsInStock>38</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="53">
+        <productName>Perth Pasties</productName>
+        <supplierID>24</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>48 pieces</quantityPerUnit>
+        <unitPrice>32.8</unitPrice>
+        <unitsInStock>0</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="54">
+        <productName>Tourtière</productName>
+        <supplierID>25</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>16 pies</quantityPerUnit>
+        <unitPrice>7.45</unitPrice>
+        <unitsInStock>21</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="55">
+        <productName>Pâté chinois</productName>
+        <supplierID>25</supplierID>
+        <categoryID>6</categoryID>
+        <quantityPerUnit>24 boxes x 2 pies</quantityPerUnit>
+        <unitPrice>24.0</unitPrice>
+        <unitsInStock>115</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="56">
+        <productName>Gnocchi di nonna Alice</productName>
+        <supplierID>26</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>24 - 250 g pkgs.</quantityPerUnit>
+        <unitPrice>38.0</unitPrice>
+        <unitsInStock>21</unitsInStock>
+        <unitsOnOrder>10</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="57">
+        <productName>Ravioli Angelo</productName>
+        <supplierID>26</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>24 - 250 g pkgs.</quantityPerUnit>
+        <unitPrice>19.5</unitPrice>
+        <unitsInStock>36</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="58">
+        <productName>Escargots de Bourgogne</productName>
+        <supplierID>27</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>24 pieces</quantityPerUnit>
+        <unitPrice>13.25</unitPrice>
+        <unitsInStock>62</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="59">
+        <productName>Raclette Courdavault</productName>
+        <supplierID>28</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>5 kg pkg.</quantityPerUnit>
+        <unitPrice>55.0</unitPrice>
+        <unitsInStock>79</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="60">
+        <productName>Camembert Pierrot</productName>
+        <supplierID>28</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>15 - 300 g rounds</quantityPerUnit>
+        <unitPrice>34.0</unitPrice>
+        <unitsInStock>19</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="61">
+        <productName>Sirop d'érable</productName>
+        <supplierID>29</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>24 - 500 ml bottles</quantityPerUnit>
+        <unitPrice>28.5</unitPrice>
+        <unitsInStock>113</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="62">
+        <productName>Tarte au sucre</productName>
+        <supplierID>29</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>48 pies</quantityPerUnit>
+        <unitPrice>49.3</unitPrice>
+        <unitsInStock>17</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="63">
+        <productName>Vegie-spread</productName>
+        <supplierID>7</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>15 - 625 g jars</quantityPerUnit>
+        <unitPrice>43.9</unitPrice>
+        <unitsInStock>24</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="64">
+        <productName>Wimmers gute Semmelknödel</productName>
+        <supplierID>12</supplierID>
+        <categoryID>5</categoryID>
+        <quantityPerUnit>20 bags x 4 pieces</quantityPerUnit>
+        <unitPrice>33.25</unitPrice>
+        <unitsInStock>22</unitsInStock>
+        <unitsOnOrder>80</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="65">
+        <productName>Louisiana Fiery Hot Pepper Sauce</productName>
+        <supplierID>2</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>32 - 8 oz bottles</quantityPerUnit>
+        <unitPrice>21.05</unitPrice>
+        <unitsInStock>76</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="66">
+        <productName>Louisiana Hot Spiced Okra</productName>
+        <supplierID>2</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>24 - 8 oz jars</quantityPerUnit>
+        <unitPrice>17.0</unitPrice>
+        <unitsInStock>4</unitsInStock>
+        <unitsOnOrder>100</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="67">
+        <productName>Laughing Lumberjack Lager</productName>
+        <supplierID>16</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 12 oz bottles</quantityPerUnit>
+        <unitPrice>14.0</unitPrice>
+        <unitsInStock>52</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>10</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="68">
+        <productName>Scottish Longbreads</productName>
+        <supplierID>8</supplierID>
+        <categoryID>3</categoryID>
+        <quantityPerUnit>10 boxes x 8 pieces</quantityPerUnit>
+        <unitPrice>12.5</unitPrice>
+        <unitsInStock>6</unitsInStock>
+        <unitsOnOrder>10</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="69">
+        <productName>Gudbrandsdalsost</productName>
+        <supplierID>15</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>10 kg pkg.</quantityPerUnit>
+        <unitPrice>36.0</unitPrice>
+        <unitsInStock>26</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="70">
+        <productName>Outback Lager</productName>
+        <supplierID>7</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 355 ml bottles</quantityPerUnit>
+        <unitPrice>15.0</unitPrice>
+        <unitsInStock>15</unitsInStock>
+        <unitsOnOrder>10</unitsOnOrder>
+        <reorderLevel>30</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="71">
+        <productName>Flotemysost</productName>
+        <supplierID>15</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>10 - 500 g pkgs.</quantityPerUnit>
+        <unitPrice>21.5</unitPrice>
+        <unitsInStock>26</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="72">
+        <productName>Mozzarella di Giovanni</productName>
+        <supplierID>14</supplierID>
+        <categoryID>4</categoryID>
+        <quantityPerUnit>24 - 200 g pkgs.</quantityPerUnit>
+        <unitPrice>34.8</unitPrice>
+        <unitsInStock>14</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>0</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="73">
+        <productName>Röd Kaviar</productName>
+        <supplierID>17</supplierID>
+        <categoryID>8</categoryID>
+        <quantityPerUnit>24 - 150 g jars</quantityPerUnit>
+        <unitPrice>15.0</unitPrice>
+        <unitsInStock>101</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="74">
+        <productName>Longlife Tofu</productName>
+        <supplierID>4</supplierID>
+        <categoryID>7</categoryID>
+        <quantityPerUnit>5 kg pkg.</quantityPerUnit>
+        <unitPrice>10.0</unitPrice>
+        <unitsInStock>4</unitsInStock>
+        <unitsOnOrder>20</unitsOnOrder>
+        <reorderLevel>5</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="75">
+        <productName>Rhönbräu Klosterbier</productName>
+        <supplierID>12</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>24 - 0.5 l bottles</quantityPerUnit>
+        <unitPrice>7.75</unitPrice>
+        <unitsInStock>125</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>25</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="76">
+        <productName>Lakkalikööri</productName>
+        <supplierID>23</supplierID>
+        <categoryID>1</categoryID>
+        <quantityPerUnit>500 ml</quantityPerUnit>
+        <unitPrice>18.0</unitPrice>
+        <unitsInStock>57</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>20</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+    <product productID="77">
+        <productName>Original Frankfurter grüne Soße</productName>
+        <supplierID>12</supplierID>
+        <categoryID>2</categoryID>
+        <quantityPerUnit>12 boxes</quantityPerUnit>
+        <unitPrice>13.0</unitPrice>
+        <unitsInStock>32</unitsInStock>
+        <unitsOnOrder>0</unitsOnOrder>
+        <reorderLevel>15</reorderLevel>
+        <discontinued>0</discontinued>
+    </product>
+</products>

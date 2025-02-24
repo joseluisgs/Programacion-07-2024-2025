@@ -1,0 +1,3 @@
+matricula,marca,modelo,color,precio,fechaMatriculacion,vendido,createdAt,updatedAt
+1234ABC,Seat,Ibiza,Rojo,12000.0,2025-02-10,false,2025-02-10T17:50:35.621621900,2025-02-10T17:50:35.621621900
+5678DEF,Renault,Clio,Azul,15000.0,2025-02-10,false,2025-02-10T17:50:35.622616800,2025-02-10T17:50:35.622616800

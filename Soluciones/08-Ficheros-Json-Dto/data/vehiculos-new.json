@@ -1,0 +1,24 @@
+[
+    {
+        "matricula": "1234ABC",
+        "marca": "Seat",
+        "modelo": "Ibiza",
+        "color": "ROJO",
+        "precio": 12000.0,
+        "fechaMatriculacion": "2025-02-17",
+        "vendido": false,
+        "createdAt": "2025-02-17T16:58:24.610456400",
+        "updatedAt": "2025-02-17T16:58:24.610456400"
+    },
+    {
+        "matricula": "5678DEF",
+        "marca": "Renault",
+        "modelo": "Clio",
+        "color": "AZUL",
+        "precio": 15000.0,
+        "fechaMatriculacion": "2025-02-17",
+        "vendido": false,
+        "createdAt": "2025-02-17T16:58:24.610456400",
+        "updatedAt": "2025-02-17T16:58:24.610456400"
+    }
+]
